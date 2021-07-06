@@ -1,0 +1,12 @@
+.content {
+  text-align: left;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#anime {
+  width: 15vw;
+  float: right;
+  margin-right: 2%;
+  border-radius: 2vw;
+}
